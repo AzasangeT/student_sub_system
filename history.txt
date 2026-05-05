@@ -1,0 +1,39 @@
+ history
+    1  git clone https://github.com/AzasangeT/student_sub_system.git
+    2  cd student_sub_system
+    3  clear
+    4  cd ..
+    5  cd Desktop
+    6  git clone https://github.com/AzasangeT/student_sub_system.git
+    7  rm student_sub_system
+    8  rm -rf student_sub_system
+    9  git clone https://github.com/AzasangeT/student_sub_system.git
+   10  cd ~
+   11  ssh-keygen -t ed25519 -C azasanget@gmail.com
+   12  ssh-keygen -t ed25519 -C azasanget@gmail.com
+   13  ls-la
+   14  ls -la
+   15  cd .ssh
+   16  cat ~/.ssh id_ed25519
+   17  cd ..
+   18  ssh-add ~/.ssh id_ed25519
+   19  cd .ssh
+   20  ssh-add /.ssh id_ed25519
+
+   21  ssh-add ~/.ssh id_ed25519
+   22  ssh -T git@github.com
+   23  cd ~
+   24  cd Desktop
+   25  git clone git@github.com:AzasangeT/student_sub_system.git
+   26  cd student_sub_system
+   27  code .
+   28  touch index.html
+   29  touch about.html
+   30  touch history.txt
+   31  ls
+   32  git add .
+   33  git commit -m added index.html, about.html, history.txt files
+   34  nano history.txt
+   35  ls
+   36  history
+
